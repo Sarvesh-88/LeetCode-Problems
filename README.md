@@ -39,4 +39,8 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
