@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0268-missing-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
