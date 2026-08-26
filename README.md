@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -49,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
