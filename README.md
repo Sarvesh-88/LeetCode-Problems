@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -25,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0078-subsets) |
