@@ -35,6 +35,7 @@
 | [0268-missing-number](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1052-grumpy-bookstore-owner) |
+| [1089-duplicate-zeros](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [1089-duplicate-zeros](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 ## Math
 |  |
 | ------- |
