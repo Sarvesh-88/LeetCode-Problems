@@ -38,6 +38,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -79,6 +80,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
