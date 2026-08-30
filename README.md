@@ -29,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -57,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
