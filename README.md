@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0078-subsets) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1089-duplicate-zeros](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 ## Math
