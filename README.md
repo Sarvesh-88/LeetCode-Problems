@@ -16,6 +16,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -69,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -76,6 +78,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Sorting
@@ -99,6 +102,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0067-add-binary) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
