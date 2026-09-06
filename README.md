@@ -35,6 +35,7 @@
 | [0027-remove-element](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,10 +103,12 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0067-add-binary) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sarvesh-88/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
